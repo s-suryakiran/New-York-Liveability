@@ -1,4 +1,3 @@
-```markdown
 # RBDA Project Proposal
 ## Liveability Assessment Using Big Data Analytics
 
