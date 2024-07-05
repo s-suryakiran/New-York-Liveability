@@ -67,3 +67,7 @@ The accessibility of health services is a key indicator of a neighborhood's live
 ### Design
 
 ![design](image1.png)
+
+
+### Detailed Report
+[report](Liveability_Assessment_Using_Big_Data_Analytics.pdf)
